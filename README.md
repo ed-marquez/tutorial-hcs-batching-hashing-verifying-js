@@ -1,7 +1,7 @@
 # Batch, anchor, and verify records with HCS
 
 Follow this tutorial in the official Hedera Documentation: 
-## 🔗 [Batch, anchor, and verify records with HCS](https://docs.hedera.com/hedera/tutorials/consensus/hcs-batch-anchor-verify)
+## 🔗 [Batch, anchor, and verify records with HCS](https://docs.hedera.com/hedera/tutorials/consensus/batch-anchor-verify-records-with-hcs)
 
 Learn how to batch records off-chain, compute a Merkle root, and anchor it on Hedera Consensus Service for cost-effective verification.
 

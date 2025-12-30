@@ -4,7 +4,8 @@
   "description": "Hedera HCS tutorial for batching records, anchoring Merkle roots, and verifying via mirror node.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node scripts/generate-data-internal.js"
   },
   "keywords": [
     "hedera",
